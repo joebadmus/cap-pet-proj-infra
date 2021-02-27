@@ -42,3 +42,8 @@ variable "k8s_version" {
   description = "kubernetes version"
   default     = ""
 }
+
+# variable "k8s_version" {
+#   description = "kubernetes version"
+#   default     = ""
+# }
